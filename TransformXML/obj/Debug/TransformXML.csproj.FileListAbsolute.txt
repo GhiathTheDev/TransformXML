@@ -1,0 +1,7 @@
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\bin\Debug\TransformXML.exe.config
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\bin\Debug\XSLT\XSLTIndent.xslt
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\bin\Debug\TransformXML.exe
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\bin\Debug\TransformXML.pdb
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\obj\Debug\TransformXML.csprojResolveAssemblyReference.cache
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\obj\Debug\TransformXML.exe
+C:\¤¤ My Projects ¤¤\Projects\TransformXML\TransformXML\obj\Debug\TransformXML.pdb
